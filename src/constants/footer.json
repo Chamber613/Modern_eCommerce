@@ -1,0 +1,60 @@
+[
+  {
+    "title": "HELP",
+    "children": [
+      { "name": "Order Status", "link": "" },
+      { "name": "Shipping & Delivery", "link": "" },
+      { "name": "Returns", "link": "" },
+      { "name": "Payment Options", "link": "" }
+    ]
+  },
+  {
+    "title": "INFORMATION",
+    "children": [
+      {
+        "name": "Gift Cards",
+        "link": ""
+      },
+      {
+        "name": "Find A Store",
+        "link": ""
+      },
+      {
+        "name": "Newsletter",
+        "link": ""
+      },
+      {
+        "name": "Become a member",
+        "link": ""
+      }
+    ]
+  },
+  {
+    "title": "UI KIT INSIDE",
+    "children": [
+      {
+        "name": "Company Overview",
+        "link": ""
+      },
+      {
+        "name": "Careers",
+        "link": ""
+      },
+      {
+        "name": "Idea Submission",
+        "link": ""
+      },
+      {
+        "name": "Student Discount",
+        "link": ""
+      }
+    ]
+  },
+  {
+    "title": "CONTACT",
+    "children": [
+      { "name": "cdicky61390@gmail.com", "link": "cdicky61390@gmail.com" },
+      { "name": "Phone : +1 131 138 2138", "link": "" }
+    ]
+  }
+]
