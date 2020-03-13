@@ -121,5 +121,5 @@ See [Live Demo](https://react-firebase-e-commerce.vercel.app/)
 
 # Credits
 
-Coded by [Mesut Çifci](https://mesutcifci.github.io/)
-Designed by [ICEO](https://iceo.co/en/blog/a-behance-success-going-for-another-with-an-ecommerce-ui-kit)
+Coded by Chamber(https://github.com/Chamber613/Chamber613)
+Designed by Malcolm
