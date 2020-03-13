@@ -40,15 +40,14 @@ See [Live Demo](https://react-firebase-e-commerce.vercel.app/)
 
 1. Clone the repo:
 
-`git clone https://github.com/mesutcifci/React-Projects.git`
+`git clone https://github.com/Chamber613/Modern_eCommerce_React.git`
 
-2. Open the main folder you cloned and navigate to the `react-e-commerce-app` directory
 
-3. instal dependencies:
+2. instal dependencies:
 
 `npm install`
 
-4. Create .env file in where package.json placed:
+3. Create .env file in where package.json placed:
 
    - To find your app data go to firebase console open your project
    - Click the gear icon near Project Overview button on top left
@@ -64,7 +63,7 @@ See [Live Demo](https://react-firebase-e-commerce.vercel.app/)
   REACT_APP_FIREBASE_API_KEY=TYPE YOUR VALUE
 ```
 
-5. Initialize products
+4. Initialize products
 
    - Checkout to branch react-e-commerce-initialize-products
 
@@ -85,11 +84,11 @@ See [Live Demo](https://react-firebase-e-commerce.vercel.app/)
    - Click **Add Products** button
    - After products added checkout to main branch - if something went wrong let me know.
 
-6. Build project:
+5. Build project:
 
    `npm run build`
 
-7. run tests:
+6. run tests:
 
    `npm run test`
 
