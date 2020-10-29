@@ -6,7 +6,7 @@ This repo contains a basic e-commerce application built with React. The applicat
   <img src="public/imgs/home01.png" width="550" title="home" alt="Home">
   <img src="public/imgs/home02.png" width="550" title="home" alt="Home">
   <img src="public/imgs/home1.png" width="550" title="home" alt="Home">
-  <img src="public/imgs/home2.png" width="550" title="home" alt="Home">
+  <img src="public/imgs/home20.png" width="550" title="home" alt="Home">
 </p>
 
 <br><br>
