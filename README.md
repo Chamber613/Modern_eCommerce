@@ -1,3 +1,4 @@
+<br>
 This repo contains a basic e-commerce application built with React. The application allows users to authenticate, browse products, add them to a shopping cart, and proceed to checkout.
 
 <p align="center">
@@ -8,6 +9,10 @@ This repo contains a basic e-commerce application built with React. The applicat
   <img src="public/imgs/home2.png" width="550" title="home" alt="Home">
 </p>
 See [Live Demo](https://react-firebase-e-commerce.vercel.app/)
+<br><br>
+
+# Give a Star! ⭐️
+
 
 # Setup Firebase
 
